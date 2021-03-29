@@ -1,0 +1,16 @@
+{
+  "name": "binary-tree-visualizer",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.1.3"
+  },
+  "dependencies": {
+    "roughjs": "^4.3.1",
+    "treevis": "^0.1.4"
+  }
+}
